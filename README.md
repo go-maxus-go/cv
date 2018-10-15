@@ -1,2 +1,0 @@
-# cv-rus
-my cv
