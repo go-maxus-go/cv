@@ -111,7 +111,7 @@
 	</tr>
 	<tr>
 		<td nowrap>Прочее</td>
-		<td>Vim, Java, Python, UML, lua, bash, nuget, directx</td>
+		<td>Vim, Java, Firebase, Python, UML, Lua, bash, nuget, directx</td>
 	</tr>
 </table>
 
