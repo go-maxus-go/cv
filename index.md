@@ -1,38 +1,119 @@
-<img src="./images/photo_round.png" width="200px" align="left">
-
-*Возраст:* 29 лет  
-*Телефон:* +7 (977) 322 33 09  
-*Telegram:* +7 (923) 241 00 45  
-*Skype:* go-maxus-go  
-*e-mail:* sheshukovmaxim@gmail.com  
-*Проживание:* Москва, Россия  
-*Русский:* Родной  
-*Английский:* Upper-Intermediate  
+<table>
+	<tr>
+		<td>
+			<img src="./images/photo_round.png" width="256px">
+		</td>
+		<td>
+			<table>
+				<tr>
+					<td>Возраст</td>
+					<td>29 лет</td>
+				</tr>
+				<tr>
+					<td>Телефон</td>
+					<td> +7 (977) 322 33 09</td>
+				</tr>
+				<tr>
+					<td>Telegram</td>
+					<td>+7 (923) 241 00 45</td>
+				</tr>
+				<tr>
+					<td>Skype</td>
+					<td>go-maxus-go</td>
+				</tr>
+				<tr>
+					<td>e-mail</td>
+					<td>sheshukovmaxim@gmail.com</td>
+				</tr>
+				<tr>
+					<td>Проживание</td>
+					<td>Москва, Россия</td>
+				</tr>
+				<tr>
+					<td>Русский</td>
+					<td>Родной</td>
+				</tr>
+				<tr>
+					<td>Английский</td>
+					<td>Upper-Intermediate</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+<table>
 
 ### Образование
 
-*2006 - 2010:* Новосибирский Государственный Университет, бакалавриат Физического Факультета, кафедра Автоматизации Физико-Технических Исследований  
-*2010 - 2012:* НГУ, магистратура ФФ, кафедра АФТИ  
+<table>
+	<tr>
+		<td nowrap>2006 - 2010</td>
+		<td>Новосибирский Государственный Университет, бакалавриат Физического Факультета, кафедра Автоматизации Физико-Технических Исследований</td>
+	</tr>
+	<tr>
+		<td nowrap>2010 - 2012</td>
+		<td>НГУ, магистратура ФФ, кафедра АФТИ</td>
+	</tr>
+</table>
 
 ### Опыт работы
 
-*январь 2009 — июнь 2012:* С++ программист при институте ИАиЭ СО РАН  
-*ноябрь 2013 — июнь 2018:* C++ разработчик в компаниях SoftLab-NSK, Movavi, 2Gis, Luxoft(Deutsche bank)  
-*июнь 2018 — данный момент:* C++/Android/Kotlin разработка и публикация собственных приложений  
-*дополнительно, январь 2016 — май 2016:* преподаватель-семинарист ООП С++, кафедра АФТИ при НГУ  
+<table>
+	<tr>
+		<td nowrap>январь 2009 — июнь 2012</td>
+		<td> С++ программист при институте ИАиЭ СО РАН</td>
+	</tr>
+	<tr>
+		<td nowrap>ноябрь 2013 — июнь 2018</td>
+		<td>C++ разработчик в компаниях SoftLab-NSK, Movavi, 2Gis, Luxoft(Deutsche bank)</td>
+	</tr>
+	<tr>
+		<td nowrap>июнь 2018 — данный момент</td>
+		<td>C++/Android/Kotlin разработка и публикация собственных приложений</td>
+	</tr>
+</table>
+
+*январь 2016 — май 2016: преподаватель-семинарист ООП С++, кафедра АФТИ при НГУ*
 
 ### Навыки работы
 
-*Ключевые навыки:* С++, STL, Qt, QML  
-*Платформы:* преимущественно Windows, есть опыт под Mac, Linux, Andriod  
-*Среды разработки:* MS Visual Studio 2015, Qt Creator, Vim  
-*Тестирование:* библиотеки google test, catch, qtest, методологии tdd, bdd  
-*Скриптовые языки:* Python3, lua, bash  
-*Системы сборки:* qmake, cmake, msbuild  
-*Системы контроля версий:* git, сервисы bitbucket(stash), github, gitlab  
-*Багтрекеры:* jira, taiga  
-*Методологии управления проектами:* Agile, scrum  
-*Прочее:* UML, nuget, mfc, directshow, PyQt5, svn, directx  
+<table>
+	<tr>
+		<td nowrap>Ключевые навыки</td>
+		<td>С++, STL, Qt, QML, Kotlin</td>
+		</tr>
+	<tr>
+		<td nowrap>Платформы</td>
+		<td>Windows, Linux, Andriod</td>
+	</tr>
+	<tr>
+		<td nowrap>Системы контроля версий</td>
+		<td>git (bitbucket, github), svn</td>
+	</tr>
+	<tr>
+		<td nowrap>Среды разработки</td>
+		<td>MS Visual Studio 2015, Qt Creator, Android studio</td>
+	</tr>
+	<tr>
+		<td nowrap>Системы сборки</td>
+		<td>qmake, cmake, msbuild, gradle</td>
+	</tr>
+	<tr>
+		<td nowrap>Тестирование</td>
+		<td>google test, catch, qtest, boost test, tdd, bdd</td>
+	</tr>
+	<tr>
+		<td nowrap>Багтрекеры</td>
+		<td>jira, taiga</td>
+	</tr>
+	<tr>
+		<td nowrap>Методологии управления проектами</td>
+		<td>agile, scrum</td>
+	</tr>
+	<tr>
+		<td nowrap>Прочее</td>
+		<td>Vim, Java, Python, UML, lua, bash, nuget, directx</td>
+	</tr>
+</table>
 
 ### Ссылки на сертификаты
 
