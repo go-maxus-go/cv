@@ -111,18 +111,20 @@
 	</tr>
 	<tr>
 		<td nowrap>Прочее</td>
-		<td>Vim, Java, Firebase, Python, UML, Lua, bash, nuget, directx</td>
+		<td>Vim, Java, Firebase, Admob, AdWords, Python, UML, Lua, bash, nuget, directx</td>
 	</tr>
 </table>
+
+### Публикации в play market
+[Foody](https://play.google.com/store/apps/details?id=ru.bananabits.android.foody) - приложение для составления списка покупок из выбранных пользователем рецептов. Вычисляет какие продукты нужно купить и в каком количестве. Написано с использованием C++, Qt, QML, QtFirebase, QtAndroidExtensions(2gis). Тесты написаны с использование catch.
+
+[Sharp](https://play.google.com/store/apps/details?id=ru.bananabits.android.sharp) - симулятор реального пистолета, позволяет пользователю выбрать мишень в окружающем его пространстве и стрелять в нее, держа телефон как настоящий пистолет. Вычисляет набранное количество очков и их среднее значение. Написано на Kotlin с использованием Dagger2, Firebase Analytics, Admob. Для вычисления попаданий в мишень используются сенсоры телефона RotationVector, Magnetic Field, Gyroscope, Gravity/Accelerometer.
 
 ### Ссылки на сертификаты
 
 [С++](https://drive.google.com/open?id=15Oub2s6kyQ46cU-gVCYjzJBZNLYL0y9J)
 [git](https://drive.google.com/open?id=180_r3mn6kDGEWIykSrBRIUl5itSl7ESX)
 [agile](https://drive.google.com/open?id=1a9K-tL_NADU9Zwgygf9IrW-60UL5gcNB)
-
-### Примеры работ
-TODO
 
 ### Участие в проектах
 
