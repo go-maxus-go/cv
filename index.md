@@ -1,14 +1,12 @@
-<p align=center>
-	<img src="./images/photo.png" width="200px" style="margin:16px;valign:center;">
-</p>
+<img src="./images/photo_round.png" width="200px" align="left">
 
 Возраст: 29 лет  
 Телефон: +7 (977) 322 33 09  
 Telegram: +7 (923) 241 00 45  
 Skype: go-maxus-go  
 e-mail: sheshukovmaxim@gmail.com  
-Проживание: Москва, Россия.  
-Русский: Родной<  
+Проживание: Москва, Россия  
+Русский: Родной  
 Английский: Upper-Intermediate  
 
 ### Образование
