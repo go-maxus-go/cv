@@ -3,10 +3,32 @@
 <head>
 	<title>Максим Шешуков | C++/Android разрабочик</title>
 	<link rel="shortcut icon" type="image/x-icon" href="./images/title_icon.png" />
-<style>
-</style>
+	<!-- printable style -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.3.0/paper.css">
+
+	<style>
+
+		h1 {
+			text-align: center;
+		}
+		h2 {
+			text-align: center;
+		}
+
+		<!-- printable settings -->
+		@page { size: A4; }
+		@media screen { .sheet { margin: 3mm auto; } }
+		@media print {
+			.no-print, .no-print *
+			{
+				display: none !important;
+			}
+		}
+	</style>
+
 </head>
-<body>
+<body class="A4">
+<section class="sheet padding-20mm">
 
 <h1>Максим Шешуков</h1>
 
@@ -127,6 +149,9 @@
 	</tr>
 </table>
 
+</section>
+<section class="sheet padding-20mm">
+
 <h2>Публикации в play market</h2>
 
 <p><a href="https://play.google.com/store/apps/details?id=ru.bananabits.android.foody">Foody</a> - приложение для составления списка покупок из выбранных пользователем рецептов. Вычисляет какие продукты нужно купить и в каком количестве. Написано с использованием C++, Qt, QML, QtFirebase, QtAndroidExtensions(2gis). Тесты написаны с использование catch.</p>
@@ -155,5 +180,6 @@
 
 <a href="https://pdf-ace.com/pdfme/" target= "_blank">Сохранить как PDF</a>
 
+</section>
 </body>
 </html>
