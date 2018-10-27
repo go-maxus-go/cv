@@ -1,0 +1,39 @@
+@import "pages.css";
+
+* {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt
+}
+
+h1 {
+	text-align: center;
+	font-size: 16pt;
+	margin-top: 0;
+}
+
+h2 {
+	text-align: center;
+	font-size: 14pt;
+	margin: 10pt 0 8pt;
+}
+
+p {
+	text-align: justify;
+	text-indent: 30pt;
+	margin: 0;
+}
+
+td {
+	padding-right: 3mm;
+	vertical-align: top;
+}
+
+<!-- printable settings -->
+@page { size: A4; }
+@media screen { .sheet { margin: 3mm auto; } }
+@media print {
+	.no-print, .no-print *
+	{
+		display: none !important;
+	}
+}
