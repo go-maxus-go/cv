@@ -2,56 +2,9 @@
 <html>
 <head>
 	<title>Максим Шешуков | C++/Android разрабочик</title>
+
 	<link rel="shortcut icon" type="image/x-icon" href="./images/title_icon.png" />
-	<!-- printable style -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.3.0/paper.css">
-
-	<style>
-		* {
-			font-family: "Times New Roman", Times, serif;
-			font-size: 12pt
-		}
-
-		h1 {
-			text-align: center;
-			font-size: 16pt;
-			margin-top: 0;
-		}
-
-		h2 {
-			text-align: center;
-			font-size: 14pt;
-			margin: 10pt 0 8pt;
-		}
-
-		p {
-			text-align: justify;
-			text-indent: 30pt;
-			margin: 0;
-		}
-
-		td {
-			padding-right: 3mm;
-			vertical-align: top;
-		}
-
-		<!-- printable settings -->
-		@page { size: A4; }
-		@media screen { .sheet { margin: 3mm auto; } }
-		@media print {
-			.no-print, .no-print *
-			{
-				display: none !important;
-			}
-		}
-	</style>
-
-	<script>
-        function printPage() {
-            window.print();
-        }
-	</script>
-
+	<link rel="stylesheet" href="styles/styles.css">
 </head>
 <body class="A4">
 <section class="sheet padding-20mm">
@@ -227,7 +180,7 @@ Android приложение для работы с картой города.
 Хоть у меня и мало опыта работы с Android, но у меня есть интерес и мотивация продолжать развиваться в этом направлении.</p>
 
 <div class="no-print" align="right">
-	<br><button onclick="printPage()">Print/Save as PDF</button>
+	<br><button onclick="window.print()">Print/Save as PDF...</button>
 </div>
 
 </section>
