@@ -1,0 +1,11 @@
+Dear Hiring Manager,
+
+I've found a Software Engineer(C++/Qt/QML) job description and visited a web site. Now I'm interested in Pix4D technologies and products.
+
+I'm a Senior C++ developer with experience in cross-platform development using Qt and QML for Windows, Linux, Mac, Android, iOS and Sailfish operational systems. Also I've knowledge about 3D graphics libraries such as Direct3D and OpenGl.
+
+I believe I'm a suitable person for your experienced and high skilled development team.
+
+Thank you I'm looking forward to your response.
+
+Sincerely, Maxim Sheshukov
