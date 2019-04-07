@@ -142,3 +142,38 @@ Top 1 wc3 championship, SLBTCoach, Foody
 Сколько тестеров приходится на разработчика?
 
 Какая платформа? Планируется ли мобильное приложение?
+
+
+# Defenetely prepare
+- Why do you want to work for Microsoft?
+- Amazon - scalability, system design, OOD.
+- Google - system design and scalability, algorithms
+- Palantir - data structures, algorithms
+
+## What are your weaknesses
+
+## Tell me about a time you had persuade a group of people to make big change
+
+## Tell me about a challenging interaction with a teammate
+
+## Tell me about yourself
+- Current role
+- Education
+- Post education
+- Current Role (details)
+- Outside of work
+- Wrap up
+
+## Hobbies
+
+## Tell me about your success
+
+# How to solve a problem
+
+- Listen (ask questions!)
+- Example (need good example!)
+- Brute force (think about all data structures)
+- Optimization (bottle necks, Big O notation, duplication, check task conditions)
+- Walk through (testing before implementation)
+- Implementation (write clean code)
+- Testing (test for simple example)
